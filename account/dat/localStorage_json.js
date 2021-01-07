@@ -1,5 +1,5 @@
 var localStorage = {
-    "#RecentMarks": "[\"Eph6:12\",\"1Ts2:2\",\"Phl1:30\",\"2Co10:3\",\"Eph2:2\",\"1Ts4:17\",\"1Co9:26\",\"Col1:14\",\"Col1:15\",\"Gen24:17\"]",
+    "#RecentMarks": "[\"1Ts4:17\",\"1Ts2:2\",\"Col1:15\",\"Col1:14\",\"Col1:1\",\"Phl1:30\",\"Eph6:12\",\"Eph2:2\",\"2Co10:3\",\"1Co9:26\",\"Jhn4:7\",\"Pro16:9\",\"Pro8:22\",\"Pro1:1\",\"Gen24:17\",\"Gen1:1\"]",
     "MostRecentSearchFile": "NIV",
     "repositories": "[{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_test.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_testx.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_wd.git\",\"passcode\":\"3edcFDSA \",\"repodesc\":\"\"}]",
     "FontSize": "20",
