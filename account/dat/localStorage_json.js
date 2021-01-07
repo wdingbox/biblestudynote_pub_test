@@ -8,5 +8,5 @@ var localStorage = {
     "#RecentBooks": "[\"Gen1:1\",\"Col1:1\"]",
     "test": "1,2",
     "SelectedDocsList": "NIV,CUVpy,_myNote,CUVS,ESV",
-    "#MemoryVerse": "[\"Pro16:9\",\"Col1:15\",\"1Ts2:2\",\"Phl1:30\",\"Eph6:12\",\"2Co10:3\",\"Eph2:2\",\"1Ts4:17\",\"1Co9:26\",\"Pro8:22\"]"
+    "#MemoryVerse": "[\"Pro8:22\",\"1Co9:26\",\"1Ts4:17\",\"Eph2:2\",\"2Co10:3\",\"Eph6:12\",\"Phl1:30\",\"1Ts2:2\",\"Col1:15\",\"Pro16:9\"]"
 }
